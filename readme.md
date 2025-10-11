@@ -1,4 +1,3 @@
-
 ---
 title: "Gleichstrommotor"
 date: "2018-10-01T14:21:00.000Z"
