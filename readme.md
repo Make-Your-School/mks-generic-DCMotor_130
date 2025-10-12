@@ -3,7 +3,7 @@ title: "Gleichstrommotor"
 date: "2018-10-01T14:21:00.000Z"
 tags: 
   - "output"
-coverImage: "41_gleichstrommotor.jpg"
+coverImage: "41_gleichstrommotor.png"
 material_number: "41"
 material_type: "output"
 material_short_descr: "DC Toy/Hobby Motor – 130 Size"
